@@ -128,5 +128,5 @@ Si lo usas como base para algo, un crédito siempre se agradece. 🤝
 ---
 
 <div align="center">
-  <sub>Hecho con 💚 y muchas horas de testing — BEN-TWEAKS V1 © 2024</sub>
+  <sub>Hecho con 💚 y muchas horas de testing — BEN-TWEAKS V1 © 2026</sub>
 </div>
